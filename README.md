@@ -37,6 +37,8 @@ I design efficient frontend and backend applications while integrating machine l
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
+---
+
 ### 🎨 Frontend Development
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -45,17 +47,23 @@ I design efficient frontend and backend applications while integrating machine l
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
+---
+
 ### ⚙ Backend Development
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
 
+---
+
 ### 🗄 Databases
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
+
+---
 
 ### 🤖 AI & Data Science
 <p align="center">
@@ -64,10 +72,14 @@ I design efficient frontend and backend applications while integrating machine l
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </p>
 
+---
+
 ### 🌐 Specialized Tech
 <p align="center">
   <img src="https://img.shields.io/badge/Web%20Speech%20API-FFD700?style=for-the-badge"/>
 </p>
+
+---
 
 ### ☁ DevOps & Cloud
 <p align="center">
