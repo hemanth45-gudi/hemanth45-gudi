@@ -4,6 +4,15 @@
 
 ---
 
+<h2 align="center">👨‍💻 About Me</h2>
+
+<p align="center">
+Computer Science student and Software Developer passionate about building intelligent, scalable systems.
+I enjoy developing efficient applications and applying machine learning to solve real-world problems.
+</p>
+
+---
+
 <h2 align="center">🛠 Tech Stack</h2>
 
 <!-- Pyramid Row 1 (5) -->
