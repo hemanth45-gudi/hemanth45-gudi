@@ -1,30 +1,24 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+There!+I'm+Gudi+Hemanth;Backend+Developer;Full+Stack+Engineer;Machine+Learning+Enthusiast" />
-</p>
-
----
-
-<h2 align="center">👨‍💻 About Me</h2>
-
-<p align="center">
-Computer Science student and software developer passionate about building intelligent and scalable systems.<br>
-I work across backend development, full-stack engineering, and machine learning — creating applications that are efficient, data-driven, and production-ready.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Hi+There!+I'm+Hemanth;Software+Developer" />
 </p>
 
 ---
 
 <h2 align="center">🛠 Tech Stack</h2>
 
+<!-- Pyramid Row 1 (5) -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js,ts,sql" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,js" />
 </p>
 
+<!-- Pyramid Row 2 (4) -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nodejs,express" />
 </p>
 
+<!-- Pyramid Row 3 (3) -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=mongodb,nextjs,tensorflow" />
 </p>
 
 <p align="center">
@@ -32,7 +26,7 @@ I work across backend development, full-stack engineering, and machine learning 
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman" />
+  <img src="https://skillicons.dev/icons?i=pytorch,git,github,docker,linux,postman,sql" />
 </p>
 
 ---
@@ -40,11 +34,11 @@ I work across backend development, full-stack engineering, and machine learning 
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hemanth45-gudi&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hemanth45-gudi&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemanth45-gudi&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemanth45-gudi&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -59,10 +53,4 @@ I work across backend development, full-stack engineering, and machine learning 
   <a href="mailto:hemanth.gudi45@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <i>Code. Optimize. Scale. 🚀</i>
 </p>
