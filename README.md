@@ -6,45 +6,55 @@
 
 ## 👨‍💻 About Me
 
-I’m a Computer Science student and Full Stack Software Developer passionate about building intelligent, scalable systems that solve real-world problems. I design efficient, user-focused applications across frontend and backend while integrating machine learning to create data-driven, impactful solutions.
+I’m a Computer Science student and Full Stack Software Developer passionate about building intelligent, scalable systems that solve real-world problems.  
+I design efficient frontend and backend applications while integrating machine learning to create impactful, data-driven solutions.
 
 ---
 
 ## 🚀 What I Bring to the Table
 
-- **Full-Stack Development** – Build end-to-end applications from frontend interfaces to backend services and deployment.
-- **Backend & API Design** – Develop scalable REST APIs, authentication systems, and structured server-side architectures.
-- **Frontend Engineering** – Create responsive, user-friendly, and accessible interfaces with performance in mind.
-- **Machine Learning Integration** – Apply ML techniques to develop data-driven and intelligent solutions.
-- **Strong CS Foundations** – Leverage solid knowledge of DSA, OS, Networks, and System Design in practical development.
-- **Problem Solving** – Approach complex challenges with analytical thinking and efficient implementation.
+<p align="center">
+
+🚀 **Full-Stack Development** – Build end-to-end applications from frontend interfaces to backend services and deployment.  
+⚙️ **Backend & API Design** – Develop scalable REST APIs, authentication systems, and structured server-side architectures.  
+🎨 **Frontend Engineering** – Create responsive, user-friendly, and accessible interfaces with performance in mind.  
+🤖 **Machine Learning Integration** – Apply ML techniques to develop data-driven and intelligent solutions.  
+🧠 **Strong CS Foundations** – Leverage solid knowledge of DSA, OS, Networks, and System Design in practical development.  
+🔧 **Problem Solving** – Approach complex challenges with analytical thinking and efficient implementation.
+
+</p>
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Programming Languages
-<p align="center">
+<h3 align="center">💻 Programming Languages</h3>
+
+<p align="right">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,sql" />
 </p>
 
-### 🎨 Frontend Development
-<p align="center">
+<h3 align="center">🎨 Frontend Development</h3>
+
+<p align="right">
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
 </p>
 
-### ⚙ Backend Development
-<p align="center">
+<h3 align="center">⚙ Backend Development</h3>
+
+<p align="right">
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### 🗄 Databases
-<p align="center">
+<h3 align="center">🗄 Databases</h3>
+
+<p align="right">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### 🤖 AI & Data Science
-<p align="center">
+<h3 align="center">🤖 AI & Data Science</h3>
+
+<p align="right">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
@@ -52,8 +62,9 @@ I’m a Computer Science student and Full Stack Software Developer passionate ab
   <strong>NumPy • Pandas • Scikit-Learn</strong>
 </p>
 
-### ☁ DevOps & Cloud
-<p align="center">
+<h3 align="center">☁ DevOps & Cloud</h3>
+
+<p align="right">
   <img src="https://skillicons.dev/icons?i=aws,netlify,docker,git,github" />
 </p>
 
