@@ -64,7 +64,7 @@ I design efficient frontend and backend applications while integrating machine l
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </p>
 
-### 🌐 Specialized Tech
+### <h3 align="center">🌐 Specialized Tech
 <p align="center">
   <img src="https://img.shields.io/badge/Web%20Speech%20API-FFD700?style=for-the-badge"/>
 </p>
