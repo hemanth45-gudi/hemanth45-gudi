@@ -21,9 +21,11 @@
   <img src="https://skillicons.dev/icons?i=mongodb,nextjs,tensorflow" />
 </p>
 
-<p align="center">
-  NumPy • Pandas • Scikit-Learn • REST APIs
-</p>
+<div align="center">
+  <strong>NumPy • Pandas • Scikit-Learn • REST APIs</strong>
+</div>
+
+<br>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,git,github,docker,linux,postman,sql" />
