@@ -28,7 +28,7 @@ I design efficient frontend and backend applications while integrating machine l
 
 ## 🛠 Tech Stack
 
-### 💻 Programming Languages
+### <h3 align="center">💻 Programming Languages
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white"/>
@@ -37,9 +37,7 @@ I design efficient frontend and backend applications while integrating machine l
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
----
-
-### 🎨 Frontend Development
+### <h3 align="center">🎨 Frontend Development
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -47,41 +45,31 @@ I design efficient frontend and backend applications while integrating machine l
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
----
-
-### ⚙ Backend Development
+### <h3 align="center">⚙ Backend Development
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
 
----
-
-### 🗄 Databases
+### <h3 align="center">🗄 Databases
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
----
-
-### 🤖 AI & Data Science
+### <h3 align="center">🤖 AI & Data Science
 <p align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 </p>
 
----
-
 ### 🌐 Specialized Tech
 <p align="center">
   <img src="https://img.shields.io/badge/Web%20Speech%20API-FFD700?style=for-the-badge"/>
 </p>
 
----
-
-### ☁ DevOps & Cloud
+### <h3 align="center">☁ DevOps & Cloud
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
