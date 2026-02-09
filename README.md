@@ -28,44 +28,53 @@ I design efficient frontend and backend applications while integrating machine l
 
 ## 🛠 Tech Stack
 
-<h3 align="center">💻 Programming Languages</h3>
-
-<p align="right">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,sql" />
-</p>
-
-<h3 align="center">🎨 Frontend Development</h3>
-
-<p align="right">
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
-</p>
-
-<h3 align="center">⚙ Backend Development</h3>
-
-<p align="right">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-<h3 align="center">🗄 Databases</h3>
-
-<p align="right">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-<h3 align="center">🤖 AI & Data Science</h3>
-
-<p align="right">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-
+### 💻 Programming Languages
 <p align="center">
-  <strong>NumPy • Pandas • Scikit-Learn</strong>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-<h3 align="center">☁ DevOps & Cloud</h3>
+### 🎨 Frontend Development
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
 
-<p align="right">
-  <img src="https://skillicons.dev/icons?i=aws,netlify,docker,git,github" />
+### ⚙ Backend Development
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+</p>
+
+### 🗄 Databases
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### 🤖 AI & Data Science
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+</p>
+
+### 🌐 Specialized Tech
+<p align="center">
+  <img src="https://img.shields.io/badge/Web%20Speech%20API-FFD700?style=for-the-badge"/>
+</p>
+
+### ☁ DevOps & Cloud
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
@@ -73,11 +82,8 @@ I design efficient frontend and backend applications while integrating machine l
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hemanth45-gudi&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemanth45-gudi&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hemanth45-gudi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemanth45-gudi&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
