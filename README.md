@@ -82,9 +82,10 @@ I design efficient frontend and backend applications while integrating machine l
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hemanth45-gudi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemanth45-gudi&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hemanth45-gudi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemanth45-gudi&theme=tokyonight&hide_border=true&cache_seconds=1800" height="170"/>
 </p>
+
 
 ---
 
